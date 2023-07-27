@@ -1,5 +1,5 @@
 # print-red-black-tree
-This is source code debugging, print, visualizing red black tree.
+This is source code debugging, print, console, visualizing red black tree in Python
 
 You can modify `s_color` to match your style of data, in my case; RED=1 and BLACK=0
 

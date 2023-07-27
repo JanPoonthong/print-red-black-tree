@@ -3,7 +3,7 @@ This is source code debugging, print, visualizing red black tree.
 
 You can modify `s_color` to match your style of data, in my case; RED=1 and BLACK=0
 
-Check full example: RedBlackTree.py
+Check full example: `RedBlackTree.py`
 
 ```python
     # source https://stackoverflow.com/a/65865825/12271495

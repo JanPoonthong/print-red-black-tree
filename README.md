@@ -61,3 +61,16 @@ Check full example: `RedBlackTree.py`
         for line in lines:
             print(line)
 ```
+
+Output:
+```
+                           ___________5(BLACK)___________________________
+                          /                                              \
+            __________5(BLACK)____                         ___________8(RED)__________________________
+           /                      \                       /                                           \
+     ___2(RED)____            0(BLACK)             ___6(BLACK)____                      __________10(BLACK)___________
+    /             \                               /               \                    /                              \
+0(BLACK)      0(BLACK)                        0(BLACK)        0(BLACK)           ___9(RED)____                  ___12(RED)____
+                                                                                /             \                /              \
+                                                                            0(BLACK)      0(BLACK)         0(BLACK)       0(BLACK)
+```

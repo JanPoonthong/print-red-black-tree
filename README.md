@@ -6,7 +6,6 @@ You can modify `s_color` to match your style of data, in my case; RED=1 and BLAC
 Check full example: `RedBlackTree.py`
 
 ```python
-    # source https://stackoverflow.com/a/65865825/12271495 + https://github.com/strager
         def print_tree(self, val="key", left="left", right="right"):
         root = self.root
         visited = set()
@@ -96,3 +95,4 @@ Output:
                                                                                 /             \                /              \
                                                                             0(BLACK)      0(BLACK)         0(BLACK)       0(BLACK)
 ```
+# Credit https://stackoverflow.com/a/65865825/12271495 + https://github.com/strager @strager

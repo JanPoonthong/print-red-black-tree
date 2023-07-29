@@ -95,4 +95,5 @@ Output:
                                                                                 /             \                /              \
                                                                             0(BLACK)      0(BLACK)         0(BLACK)       0(BLACK)
 ```
-# Credit https://stackoverflow.com/a/65865825/12271495 + https://github.com/strager @strager
+
+Credit https://stackoverflow.com/a/65865825/12271495 + https://github.com/strager (@strager)
